@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    char ch[30] = "The tribal cheif Hamim Reza";
+    char ch[30] = "The tribal chief Hamim Reza";
     double a =20.345;
     int b = 5;
     float p=8.5743,q=6.78,sum,sub,mul,div,mod;
