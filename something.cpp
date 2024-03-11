@@ -4,30 +4,28 @@ int main()
 {
    int x=-4,y;
    y=--x;
-   cout<<y<<endl; //-5
+   cout<<y<<endl; 
    y=x++;
-   cout<<y<<endl;//-5
+   cout<<y<<endl;
  y=++x;
-   cout<<y<<endl;//-3
+   cout<<y<<endl;
    y=x++;
-   cout<<y<<endl;//-3
+   cout<<y<<endl;
    y=++x;
-   cout<<y<<endl;//-1
+   cout<<y<<endl;
  y=++x;
-   cout<<y<<endl;//0
+   cout<<y<<endl;
 y=++x;
-   cout<<y<<endl;//1
+   cout<<y<<endl;
 y=++x;
-   cout<<y<<endl;//2
+   cout<<y<<endl;
 y=--x;
-   cout<<y<<endl;//1
+   cout<<y<<endl;
   y=++x;
-   cout<<y<<endl;//2
+   cout<<y<<endl;
    y=x++;
-   cout<<y<<endl;//2
+   cout<<y<<endl;
    y=++x;
-   cout<<y<<endl;//4
-
-
-
+   cout<<y<<endl;
+return 0;
 }
