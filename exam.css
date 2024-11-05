@@ -1,0 +1,29 @@
+h1{
+    color:red;
+    font-size: 30px;
+}
+p{
+    color: rgb(154, 222, 135);
+    font-size: 20px;
+}
+div{
+    background-color: rgb(224, 141, 38);
+    width: 1000px;
+    height: 400px;
+    margin: 20px;
+}
+div p{
+    font-size:40px;
+    color :black;
+}
+.p-f{
+    color: fuchsia;
+    text-align: center;
+}
+.p-h{
+    color: darkred;
+    text-align: center;
+}
+.d-f{
+    background-color: aquamarine;
+}
