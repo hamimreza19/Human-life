@@ -1,0 +1,33 @@
+h1,p,
+span,a,
+h3{
+  background:aquamarine;
+  
+
+}
+h1{
+  display:inline-block;
+}
+span{
+  display:block;
+}
+h2{
+  display:block;
+  display:inline-block;
+}
+
+h3{
+  display:inline-block;
+  
+  
+  
+}
+a{
+  display:inline-block;
+}
+a.btn{
+  background:violet;
+  color:white;
+  padding:10px 25px;
+  display:inline-block;
+}
