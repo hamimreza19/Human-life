@@ -1,0 +1,47 @@
+table,
+th,td{
+  
+  border: 1px solid #00ff;
+  border-collapse:collapse;
+  padding: 10px 5px;
+  text-align:left;
+
+}
+table{
+  width:100%;
+  height:100px;
+}
+th{
+  background:aqua;
+  height:50px;
+  text-align:left;
+  font-weight:500;
+  color:brown;
+  text-decoration: underline;
+
+}
+tr{
+  background:green;
+  
+  width:40px;
+  height:50px;
+  text-align:justify;
+  font-weight:bold;
+}
+td{
+  background:#f1c40f;
+  border:1px solid red;
+  color:blueviolet;
+  height:40px;vertical-align: middle;
+}
+tr:hover th,
+tr:hover td{
+  background:green;
+}
+div{
+  width:450px;
+  height:300px;
+  overflow:hidden;
+  overflow-x: auto;
+  overflow-y: scroll;
+}
