@@ -1,0 +1,74 @@
+.parent{
+  background:aqua;
+  height:200px;
+  width:200px;
+  right:10px;
+  bottom:10px;
+}
+.child{
+  background: plum;
+width:100px;
+height:100px;
+left:80%;
+margin-left:-50px;
+position:absolute;
+top:50%;
+margin-top:-50px;
+z-index: 30;
+}
+.child2{
+  background:tomato;
+width:150px;
+height:150px;
+left:50%;
+margin-left:-25px;
+position:absolute;
+top:50%;
+margin-top:-250px;
+z-index: 30;
+}
+.child3{
+  background: blue;
+  width:50px;
+height:50px;
+left:58%;
+margin-left:-25px;
+position:absolute;
+top:50%;
+margin-top:-150px;
+z-index: 38;
+}
+#hero_area {
+  background-image: url(flower.jpg);
+  background-size: 200px;
+  height:200px;
+  width:200px;
+  background-color:red;
+  color:white;
+
+}
+#hero_area:hover{
+  background-color:red;
+}
+#hero_area p{
+  background:tomato;
+  color:black;
+}
+.bg{
+  background-color:blue;
+  position:absolute;
+  width:100px;
+  height:100px;
+  color:black;
+  top:0;
+  left:0;
+  z-index:33;
+}
+#hero_area h2{
+  background:purple;
+  color:black;
+  height:50px;
+  width:200px;
+  z-index:36;
+
+}
