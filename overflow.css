@@ -1,0 +1,10 @@
+div{
+  background:blueviolet;
+  color:white;
+  height:200px;
+  width:300px;
+  padding:20px;
+  overflow:visible;
+  overflow-x: scroll;
+  overflow-y:inherit;
+}
