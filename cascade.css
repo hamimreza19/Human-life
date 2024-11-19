@@ -1,0 +1,30 @@
+#outer-box{
+  background:purple;
+  
+}
+
+.box{
+  background:blue;
+  padding:10px;
+}
+
+.inner-box{
+  background:red;
+  
+}
+
+p{
+  color:white;
+  margin:0;
+  padding:0px;
+}
+.white-text{
+  color:white;
+}
+p,
+h1{
+  color:yellow;
+}
+.cdn-dx p{
+  color:white;
+}
